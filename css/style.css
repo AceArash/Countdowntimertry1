@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: azure;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  font-size: 32px;
+}
+div.class-name p.red {
+  color: red;
+  background-color: aquamarine;
+}

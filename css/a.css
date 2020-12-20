@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+/* This is comment: presshold CTRL and / to get comment for different files html, css and js etc */
+div {
+  color: pink;
+  border: 1px solid black;
+}
+.second-p {
+  color: inherit;
+  border: initial;
+}
+.first-p {
+  color: initial;
+  border: inherit;
+}
