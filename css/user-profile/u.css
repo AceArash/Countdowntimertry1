@@ -1,15 +1,21 @@
 * {
   box-sizing: border-box;
 }
+body {
+  font-size: 24px;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+}
 .black {
-  background-color: black;
+  background-color: white;
 }
 .header-title {
   background-color: #fff;
   color: black;
   text-align: center;
 }
-.hobbies-section {
+.hobbies-section,
+.prog-lang {
   background-color: green;
   color: white;
 }
@@ -17,13 +23,10 @@
   background-color: white;
   color: black;
 }
-.prog-lang {
-  background-color: green;
-  color: white;
-}
-.aqua {
-  color: aqua;
+
+.cyan {
+  color: cyan;
 }
 .line-through {
-  text-decoration: line-through;
+  text-decoration-line: line-through;
 }
