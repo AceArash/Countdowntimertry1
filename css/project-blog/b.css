@@ -1,0 +1,31 @@
+/* CSS File */
+header {
+  color: #fff;
+  background-color: rebeccapurple;
+}
+
+.header-text {
+  color: #f1f1f1;
+  /* background-color: salmon; */
+  text-align: center;
+}
+.article-title {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.date {
+  color: pink;
+  font-style: oblique;
+}
+.article-author {
+  color: red;
+  font-style: italic;
+}
+.date,
+.article-author {
+  font-size: 20px;
+}
+
+#footer {
+  color: peru;
+  background-color: palegreen;
+}

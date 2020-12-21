@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+.black {
+  background-color: black;
+}
+.header-title {
+  background-color: #fff;
+  color: black;
+  text-align: center;
+}
+.hobbies-section {
+  background-color: green;
+  color: white;
+}
+.bands-section {
+  background-color: white;
+  color: black;
+}
+.prog-lang {
+  background-color: green;
+  color: white;
+}
+.aqua {
+  color: aqua;
+}
+.line-through {
+  text-decoration: line-through;
+}
