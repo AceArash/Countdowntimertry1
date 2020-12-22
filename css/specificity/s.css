@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  align-items: center;
+  justify-content: center;
+  font-size: 21px;
+  margin: 0;
+  padding: 10px;
+  background-color: #f1f1f1;
+  color: brown;
+}
+#headeing-id {
+  color: red;
+}
+.header {
+  color: green;
+}
+h2 {
+  color: blue;
+}
+
+/* Read from top down and last one get prefence */
+/* !important > #id > .class > header,h1,h6,p,div Specificity Order */
+/* Specificity Calculator;
+Inline Style overrides everything of stye.css file */
