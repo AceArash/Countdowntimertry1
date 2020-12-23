@@ -1,3 +1,19 @@
 * {
   box-sizing: border-box;
 }
+
+.submit:hover {
+  background-color: aquamarine;
+}
+
+.submit:focus {
+  background-color: rebeccapurple;
+}
+
+.name:hover {
+  background-color: green;
+}
+
+.email:hover {
+  background-color: yellow;
+}
